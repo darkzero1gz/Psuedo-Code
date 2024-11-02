@@ -1,5 +1,6 @@
 # Psuedo-Code
 //Psuedo code นี้คือการเขียนขั้นตอนของโปรแกรมโดยประกาศตัวแปร ฟังก์ชันสำหรับแสดงเมนู รับค่า ตรวจคำตอบ อัปเดตคะแนน และแสดงอันดับสูงสุด เพื่อให้เห็นลำดับขั้นการทำงานของโปรแกรมอย่างชัดเจน
+///////////////////////////////////////////////////
 CONSTANT MAX_SCORES = 10
 DECLARE players[MAX_SCORES] AS STRING ARRAY
 DECLARE highScores[MAX_SCORES] AS INTEGER ARRAY, INITIALIZED TO 0
